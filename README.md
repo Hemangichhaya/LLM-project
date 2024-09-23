@@ -45,8 +45,5 @@ The model was evaluated using:
 
 ### Usage
 **1. Prepare Data:** Ensure your dataset is preprocessed and formatted correctly.
-**2. Run the Model:**
-```
-python classify.py --config model_config.yaml
-```
-**3. Evaluate Results:** Use provided scripts to generate confusion matrices and classification reports.
+**2. Run the Model:** Run notebook to run the model.
+**3. Evaluate Results:** Use provided scripts in notebook to generate confusion matrices and classification reports.
